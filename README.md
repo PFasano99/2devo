@@ -1,4 +1,4 @@
-# EnviromentalSimulation
+# 2Devo
 
 This project is a simple 2d strategy game in Unity.
 
