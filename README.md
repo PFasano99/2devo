@@ -27,3 +27,11 @@ Features list:
 *This list will be updated as soon as new features are committed.*
 
 To oganize this project developement and to make a better list of fitures, changeLogs and other annotations, trello is being used. [2devo on Trello](https://trello.com/b/n0e50zbr/2devo)
+
+To develop this project the following has been used:
+
+- IDE | Visula Studio 2019
+- IDE | Visual Studio Code
+- Game engine | Unity version 2020.1.4f1
+- 3D Modelling | Blender version 2.79 | not every model in this project have been made by me
+- Graphics editor | Krita version 4.4.8 | not every texture in this project have been made by me
